@@ -34,3 +34,11 @@ Para instalar o Terraform, realize o [download](https://www.terraform.io/downloa
 Após o download, extraia o pacote. O Terraform é executado a partir de um arquivo binário chamado terraform. Os demias arquivos do pacot podem ser removidos sem preocupação e o Terraform continuará funcionando.
 
 Finalmente, configure o binário do terraform como variável de ambiente. Este processo será de acordo com seu sistema operacional.
+
+### Verificar a instalação
+
+Verifique se a instalação foi executada com sucesso executando a instrução de linha de comando que exibe todos os comandos do Terraform.
+
+```
+$ terraform -help
+```
