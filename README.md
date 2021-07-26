@@ -24,3 +24,13 @@ Terraform mantém um rastreamento da sua infraestrutura em um arquivo de estado,
 ## Install Terraform
 
 Para utilizar o Terraform será preciso instala-lo. HashiCorp distribui o Terraform como um pacote binário. Você também pode intalar o Terraform utilizando os gerenciados de pacote populares.
+
+### Instalaçao manual
+
+Iremos abordar a forma de instalar o Terraform de forma manual através de um binário pré-compilado.
+
+Para instalar o Terraform, realize o [download](https://www.terraform.io/downloads.html) do pacote como um arquivo zip correspondente ao seu sistema operacional.
+
+Após o download, extraia o pacote. O Terraform é executado a partir de um arquivo binário chamado terraform. Os demias arquivos do pacot podem ser removidos sem preocupação e o Terraform continuará funcionando.
+
+Finalmente, configure o binário do terraform como variável de ambiente. Este processo será de acordo com seu sistema operacional.
